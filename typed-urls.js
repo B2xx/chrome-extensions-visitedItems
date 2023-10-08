@@ -126,5 +126,5 @@ function buildVisitedUrlList(divName) {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-  buildTypedUrlList('typedUrl_div');
+  buildVisitedUrlList('typedUrl_div');
 });
