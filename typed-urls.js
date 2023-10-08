@@ -80,7 +80,7 @@ function buildVisitedUrlList(divName) {
     }
   );
 
-  // Maps URLs to a count of the number of times the user typed that URL into
+  // Maps URLs to a count of how recent the user typed that URL into
   // the omnibox.
   let urlToCount = {};
 
