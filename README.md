@@ -1,2 +1,2 @@
 # chrome-extensions-visitedItems
-This is a chrome extension which could list your recently visited 10 websites.
+This sample uses the chrome.history API to display in a popup the user's recently visited 10 pages.
